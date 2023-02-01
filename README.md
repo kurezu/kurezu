@@ -1,6 +1,6 @@
 ### Привет! 👋
 
-### ✨ Обо мне за 30 секунд ✨ 
+### ✨ Обо мне ✨ 
 * Учусь на курсе Data Science в Skillfactoy
 * Прошел базовый курс Python в Skillbox 
 
@@ -23,7 +23,7 @@
 
 ### Hello! 👋
 
-### ✨ About me in 30 seconds ✨ 
+### ✨ About me ✨ 
 * Studying Data Science course at Skillfactoy
 * Completed a basic Python course at Skillbox
 
