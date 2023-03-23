@@ -6,10 +6,10 @@
 
 ### 📚 Проекты 📚
 
-* Кликни [сюда](https://github.com/kurezu/sf_data_science) чтобы посмотреть мои проекты
+* [Здесь](https://github.com/kurezu/sf_data_science) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, SQL
+- Инструменты: Python, SQL, EDA, ML
 - Skills: 
     * В процессе понимания своих умений :sweat_smile:
 
@@ -28,7 +28,7 @@
 * Completed a basic Python course at Skillbox
 
 ### 💡 Core competencies 💡
-- Tools: Python, SQL
+- Tools: Python, SQL, EDA, ML
   - Skills:
     * In the process of understanding my skills :sweat_smile:
 
