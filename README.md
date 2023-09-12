@@ -1,7 +1,7 @@
 ### Привет! 👋
 
 ### ✨ Обо мне ✨ 
-* Учусь на курсе Data Science в Skillfactoy
+* Прошел курсе Data Science в Skillfactoy
 * Прошел базовый курс Python в Skillbox 
 
 ### 📚 Проекты 📚
@@ -14,26 +14,9 @@
     * В процессе понимания своих умений :sweat_smile:
 
 ### ⚡️ В настоящее время ⚡️
-- Продолжаю обучение Data Science 
+- Изучаю разработку игр в Unity (Skillfactory) 
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/KlezZz)
 
----
 
-### Hello! 👋
-
-### ✨ About me ✨ 
-* Studying Data Science course at Skillfactoy
-* Completed a basic Python course at Skillbox
-
-### 💡 Core competencies 💡
-- Tools: Python, SQL, EDA, ML
-  - Skills:
-    * In the process of understanding my skills :sweat_smile:
-
-### ⚡️ Currently ⚡️
-- I continue studying Data Science
-
-### 🙌🏻 Contact me
-- [Telegram](https://t.me/KlezZz)
